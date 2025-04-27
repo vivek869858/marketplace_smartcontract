@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 /marketplace-frontend/node_modules
+/marketplace-frontend/.next/
+/marketplace-frontend/package.json
+/marketplace-frontend/package-lock.json
 /.pnp
 .pnp.*
 .yarn/*
